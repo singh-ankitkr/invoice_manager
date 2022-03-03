@@ -1,4 +1,6 @@
 Steps:
+Prerequisites:
+- Have docker installed in your system. (docker-compose v2.2.3 was used to build this)
 
 Start the local server in docker.
 ```
